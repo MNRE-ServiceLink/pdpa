@@ -1,6 +1,6 @@
 # pdpa
 This repository contains the source codes of the following services:
-- [GPPC User's Guide](https://MNRE-ServiceLink.github.io/pdpa)
+- [GPPC User's Guide](https://MNRE-ServiceLink.github.io/pdpa/guide)
 
 ## Licenses
 ### Book Layout
