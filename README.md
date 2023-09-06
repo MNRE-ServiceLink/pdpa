@@ -3,6 +3,7 @@ This repository contains the source codes of the following services:
 - GPPC User's Guide
 
 ## Licenses
+### Book Layout
 ```
 Copyright (c) 2023 by Erin E. Sullivan (https://codepen.io/erinesullivan/pen/gxdbzp)
 
@@ -22,4 +23,11 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIG
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 OR OTHER DEALINGS IN THE SOFTWARE.
+```
+### Content
+```
+Copyright © 2023 Montri Kiatphaophan <monte.k@mnre.go.th>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
 ```
